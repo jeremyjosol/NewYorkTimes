@@ -2,6 +2,8 @@
 using System.Threading.Tasks;
 using RestSharp;
 using NewYorkTimes.Keys;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace ApiTest
 {
